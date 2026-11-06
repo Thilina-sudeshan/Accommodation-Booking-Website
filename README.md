@@ -2,7 +2,7 @@
 
 A prototype accommodation booking website for Sri Lanka, built for the Xero Lanka web developer practical assessment.
 
-**Live demo:** _add link after deployment_
+**Live demo:** <https://accommodation-booking-website.vercel.app>
 
 No login is required to use the site.
 
