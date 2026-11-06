@@ -46,4 +46,4 @@ I treated the assessment as a small product rather than a set of separate pages,
 
 ## AI tool disclosure
 
-I used Claude Code, an AI coding assistant, during development, as the brief permits. I reviewed the code and can explain and modify it during the technical interview.
+I used an AI coding assistant during development, as the brief permits. I reviewed the code and can explain and modify it during the technical interview.

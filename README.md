@@ -78,4 +78,4 @@ As allowed by the brief, this is a front-end prototype:
 
 ## AI assistance
 
-This project was developed with the assistance of Claude Code, an AI coding tool, as permitted by the assessment brief.
+This project was developed with the help of an AI coding assistant, as permitted by the assessment brief.
