@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-dm-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-fraunces), ui-serif, Georgia, serif;
+
+  --color-ink: #17231f;
+  --color-muted: #5b6862;
+  --color-line: #e2dccf;
+  --color-sand: #f7f3ea;
+  --color-forest: #1f4a3f;
+  --color-forest-dark: #15342c;
+  --color-clay: #b0522b;
+  --color-clay-dark: #91421f;
+  --color-danger: #b3261e;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+html:has(dialog[open]) {
+  overflow: hidden;
+}
+
+body {
+  background: #fff;
+  color: var(--color-ink);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-clay);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
